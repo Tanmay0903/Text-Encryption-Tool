@@ -22,7 +22,10 @@ This web application allows you to encrypt and decrypt text securely using AES-C
 There's no installation necessary for this web-based tool. Simply download or clone the repository and open index.html in a web browser.
 Contributing
 
-Contributions are welcome! If you have suggestions, improvements, or bug fixes, feel free to open issues or pull requests.
-License
+**Contribution**
+
+Contributions and improvements to this project are welcome. Feel free to fork the repository, make changes, and submit pull requests.
+
+**License**
 
 This project is licensed under the MIT License - see the LICENSE file for details.
