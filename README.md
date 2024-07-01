@@ -19,7 +19,7 @@ This web application allows you to encrypt and decrypt text securely using AES-C
 
 **Installation**
 
-There's no installation necessary for this web-based tool. Simply download or clone the repository and open index.html in a web browser.
+There's no installation necessary for this web-based tool. Simply download or clone the repository and open main.html in a web browser.
 Contributing
 
 **Contribution**
